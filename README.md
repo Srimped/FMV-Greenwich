@@ -1,2 +1,2 @@
 # FMV-Greenwich
- A fmv game for school project
+ A FMV game for university project using Charles FMV Engine
