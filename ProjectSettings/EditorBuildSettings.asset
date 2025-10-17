@@ -5,7 +5,25 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/CharlesFMVEngine/Engine/Scenes/Master.unity
+    guid: 36f8ccdeb686e96458fa281e10eae985
+  - enabled: 1
+    path: Assets/CharlesFMVEngine/Samples/Scenes/MainMenu.unity
+    guid: 1f323b95c26620142946b0c005f64c1b
+  - enabled: 1
+    path: Assets/CharlesFMVEngine/Samples/Scenes/DialogScene1.unity
+    guid: 828b413b2791e6a41a89ed9590730613
+  - enabled: 1
+    path: Assets/CharlesFMVEngine/Samples/Scenes/DialogScene2.unity
+    guid: 501ac6340f193434f890a8d80a93ff81
+  - enabled: 1
+    path: Assets/CharlesFMVEngine/Samples/Scenes/EmailScene.unity
+    guid: 16d9a57e9d7f1c444b764fd9c55adceb
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 51356d19576b96047b3dd9db100f6020
   m_configObjects: {}
