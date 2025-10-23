@@ -90,9 +90,9 @@
     <Compile Include="Assets\CharlesFMVEngine\Engine\UserScripts\ShowDialogOptions.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\UserScripts\FadeInTween.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\UserScripts\SpriteButton.cs" />
+    <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Dialogs\VideoTimerEditor.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Persistence\VariablePersistence.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\UserScripts\ChangableSprite.cs" />
-    <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Dialogs\VideoTimerEditor.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\UserScripts\RunOnDialogResume.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Persistence\ScriptableObjects\StringSetVariable.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Scene\CESceneRoot.cs" />
@@ -101,9 +101,9 @@
     <Compile Include="Assets\CharlesFMVEngine\Samples\Scripts\SampleMainMenuManager.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\UserScripts\SetText.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Dialogs\ForkOption.cs" />
+    <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Dialogs\ForkExtensions\ForkNodeClassic.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Utils\EditorButton.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Persistence\Variable.cs" />
-    <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Dialogs\ForkExtensions\ForkNodeClassic.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Input\GestureDetector.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Persistence\ScriptableObjects\VariableManager.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Persistence\ScriptableObjects\LangVariable.cs" />
@@ -111,8 +111,8 @@
     <Compile Include="Assets\CharlesFMVEngine\Engine\UserScripts\SwitchToScene.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Input\InputAction.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Dialogs\PauseDialog.cs" />
-    <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Dialogs\PauseDialogRoutine.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\UserScripts\AlphaGroup.cs" />
+    <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Dialogs\PauseDialogRoutine.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\UserScripts\TextBackground.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Globals.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Video\CEVideoPlayer.cs" />
@@ -139,8 +139,8 @@
     <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Dialogs\ForkExtensions\CustomForkStrategy.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\UserScripts\ObjectVisibleIf.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Utils\SpriteToggle.cs" />
-    <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Sound\SoundPlayer.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Persistence\ScriptableObjects\BoolVariable.cs" />
+    <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Sound\SoundPlayer.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Dialogs\DialogObserver.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Persistence\ScriptableObjects\RandomBoolVariable.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Dialogs\CERoutine.cs" />
@@ -167,8 +167,8 @@
     <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Persistence\ScriptableObjects\EnumVariable.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\CEScript.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Video\VideoPool.cs" />
-    <Compile Include="Assets\CharlesFMVEngine\Engine\UserScripts\VariableObserver.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\UserScripts\Comment.cs" />
+    <Compile Include="Assets\CharlesFMVEngine\Engine\UserScripts\VariableObserver.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Dialogs\ForkExtensions\ForkNodeFollowLastAnswer.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Utils\FadeTween.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\UserScripts\LocalizedSprite.cs" />
@@ -583,12 +583,12 @@
       <HintPath>Library\PackageCache\com.unity.collections@1.2.4\Unity.Collections.LowLevel.ILSupport\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-      <HintPath>Library\PackageCache\com.unity.visualscripting@1.9.2\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="CharlesEngine">
       <HintPath>Assets\CharlesFMVEngine\Engine\Scripts\Managed\CharlesEngine.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
+      <HintPath>Library\PackageCache\com.unity.visualscripting@1.9.2\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Android.Types">
