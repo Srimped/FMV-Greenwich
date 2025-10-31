@@ -1,0 +1,4 @@
+repository "FMV Game 2025-10-17_17-48-30/FMV Game@18967043513826@cloud"
+  path "/"
+    br "/main"
+    co "/main"
