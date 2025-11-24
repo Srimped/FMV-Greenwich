@@ -1,0 +1,29 @@
+1
+00:00:22,000 --> 00:00:22,500 
+...Phu.
+
+2 00:00:22,700 --> 00:00:23,100 Here.
+3 00:00:23,300 --> 00:00:23,900 Vu Hien Vinh.
+4 00:00:24,000 --> 00:00:24,400 Here.
+5 00:00:24,500 --> 00:00:25,000 And Vu Quang Minh.
+6 00:00:25,100 --> 00:00:25,500 Here.
+7 00:00:25,700 --> 00:00:26,500 Excuse me, teacher, may I come in?
+8 00:00:26,600 --> 00:00:27,300 Okay, come in.
+9 00:00:27,500 --> 00:00:28,400 You're Nguyen Hoang Tung, right?
+10 00:00:28,500 --> 00:00:28,900 That's right.
+11 00:00:29,000 --> 00:00:29,400 Okay.
+12 00:00:31,500 --> 00:00:32,000 Alright.
+13 00:00:33,500 --> 00:00:35,000 So... okay, everyone is here.
+14 00:00:35,500 --> 00:00:43,000 Uh, I'll start right away. We are now in the final course. Your... your task will be to run the project in groups of at least four people.
+15 00:00:43,300 --> 00:00:47,500 According... according to the deadline I've set, it will be on November 29th.
+16 00:00:48,000 --> 00:00:51,000 Around... 10... 12 o'clock. November 29th.
+17 00:00:51,300 --> 00:00:52,100 Huh? Why so early, teacher?
+18 00:00:52,400 --> 00:00:53,000 So early, teacher?
+19 00:00:53,300 --> 00:00:57,000 I've seen other classes with the same deadline, and no one had any objections.
+20 00:00:57,300 --> 00:00:58,500 Don't tell me you can't do it?
+21 00:00:59,300 --> 01:00,500 It's just one month, a little over a month.
+22 01:01,000 --> 01:03,800 This... this will be a challenge for you to get a high grade.
+23 01:04,000 --> 01:11,500 Actually, I can still postpone the deadline, but if you want a grade above 65, you need to finish by the early deadline.
+24 01:12,000 --> 01:12,800 Can you do it?
+25 01:13,200 --> 01:14,200 Okay, try your best.
+

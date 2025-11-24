@@ -1,0 +1,19 @@
+1
+00:00:00,500 --> 00:00:03,300
+Nah, I'm not playing today, man. I'm going to class, my time slot is over.
+
+2
+00:00:03,500 --> 00:00:05,200
+Oh, really? Alright, then. Another time, another time, 'kay?
+
+3
+00:00:05,400 --> 00:00:06,200
+Okay, 'kay.
+
+4
+00:00:06,800 --> 00:00:08,200
+Bye-bye. I'll call you next time, we can... we can go together.
+
+5
+00:00:08,300 --> 00:00:08,900
+Okay.

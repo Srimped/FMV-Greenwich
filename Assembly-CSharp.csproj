@@ -59,7 +59,7 @@
     <UnityVersion>2022.3.22f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="C:\Users\srimped\.vscode\extensions\visualstudiotoolsforunity.vstuc-1.1.3\Analyzers\Microsoft.Unity.Analyzers.dll" />
+    <Analyzer Include="C:\Users\srimped\.vscode\extensions\visualstudiotoolsforunity.vstuc-1.2.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
     <Analyzer Include="D:\Unity Editor\2022.3.22f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="D:\Unity Editor\2022.3.22f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
@@ -195,19 +195,25 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\CharlesFMVEngine\Samples\Assets\Movies\23_Italwaysdoes_matej_en.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets\Video\Prologue\22 26_en.txt" />
     <None Include="Assets\CharlesFMVEngine\Samples\Assets\Movies\01_Howareyou_matej_en.txt" />
     <None Include="Assets\CharlesFMVEngine\Samples\Assets\Movies\03_Prank_matej_en.txt" />
     <None Include="Assets\CharlesFMVEngine\Samples\Assets\Movies\08_Hm_matej_en.txt" />
+    <None Include="Assets\Video\Prologue\13_en.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Assets\CharlesFMVEngine\Samples\Assets\Movies\16_ivegotyouremail_en.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
     <None Include="Assets\CharlesFMVEngine\Samples\Assets\Movies\21_didyoujusthangup_matej_en.txt" />
+    <None Include="Assets\Video\Prologue\12.txt" />
+    <None Include="Assets\Video\Prologue\22 26.txt" />
     <None Include="Assets\CharlesFMVEngine\Samples\Assets\Movies\10_bothgreyhounds_en.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\CharlesFMVEngine\Samples\Assets\Movies\06_alright_matej_en.txt" />
     <None Include="Assets\CharlesFMVEngine\Engine\Scripts\Managed\CharlesEngine.dll" />
     <None Include="Assets\CharlesFMVEngine\Samples\Assets\Movies\19_what_matej_en.txt" />
+    <None Include="Assets\Video\Prologue\1.txt" />
+    <None Include="Assets\Video\Scene1\32.1.txt" />
     <None Include="Assets\CharlesFMVEngine\Samples\Assets\Movies\05_sofarSogood_matej_en.txt" />
     <None Include="Assets\CharlesFMVEngine\Engine\Shaders\HoverShader.shader" />
     <None Include="Assets\CharlesFMVEngine\Samples\Assets\Movies\13_cantwait_matej_en.txt" />
@@ -218,6 +224,7 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
+    <None Include="Assets\Video\Prologue\12_en.txt" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\CharlesFMVEngine\Samples\Assets\Movies\02_Soundsfun_matej_en.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
@@ -229,6 +236,7 @@
     <None Include="Assets\CharlesFMVEngine\Samples\Assets\Movies\01_Howareyou_matej_de.txt" />
     <None Include="Assets\CharlesFMVEngine\Samples\Assets\Movies\12_sureIcan_matej_en.txt" />
     <None Include="Assets\CharlesFMVEngine\Third Party Notices.txt" />
+    <None Include="Assets\Video\Prologue\13.txt" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\CharlesFMVEngine\Samples\Assets\Sounds\Readme.txt" />
     <None Include="Assets\CharlesFMVEngine\Samples\Assets\Movies\14_okletssee_matej_en.txt" />

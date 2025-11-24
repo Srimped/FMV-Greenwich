@@ -23,7 +23,8 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 164ccd8c3b9e8c4408f79f1ce42680fb, type: 2}
   - {fileID: 11400000, guid: bbde4049e65dfcd46a30edf7a8d90c60, type: 2}
   - {fileID: 11400000, guid: 95bf7e1d11cf2434bb02ff0873b7413a, type: 2}
-  - {fileID: 11400000, guid: 0d6f4828cc9072f42bf7915fb7cf98f8, type: 2}
+  - {fileID: 11400000, guid: 634a1fb5abbf3434d98baad7d2de0daf, type: 2}
+  - {fileID: 11400000, guid: 8c867a314facf6f4b8aae18b33be9be1, type: 2}
   VariableNames:
   - RandomBoolVar
   - SwitchToDialogNode
@@ -35,5 +36,6 @@ MonoBehaviour:
   - S3_3_visited
   - SeenSong1
   - SeenSong2
-  - unnamed_0_visited
+  - Gaming_Var
+  - Intelligence_var
   Manual: 0
