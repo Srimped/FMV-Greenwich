@@ -120,6 +120,7 @@
     <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Dialogs\Condition.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\UserScripts\Timer.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\UserScripts\ScheduleTimeEvent.cs" />
+    <Compile Include="Assets\Scripts\ChangeScene.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Persistence\ScriptableObjects\IntCalcVariable.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\Scripts\Dialogs\DialogChoiceLayout.cs" />
     <Compile Include="Assets\CharlesFMVEngine\Engine\UserScripts\IfElseScript.cs" />

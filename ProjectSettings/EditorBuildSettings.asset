@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/CharlesFMVEngine/Samples/Scenes/MainMenu.unity
     guid: 1f323b95c26620142946b0c005f64c1b
+  - enabled: 1
+    path: Assets/Scenes/PhoneScene3.unity
+    guid: decd76a7358540c49bf240affdef40bf
   m_configObjects: {}

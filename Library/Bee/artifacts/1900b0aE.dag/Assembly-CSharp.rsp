@@ -502,6 +502,7 @@
 "Assets/CharlesFMVEngine/Engine/UserScripts/VariableObserver.cs"
 "Assets/CharlesFMVEngine/Samples/Scripts/SampleMainMenuManager.cs"
 "Assets/CharlesFMVEngine/Samples/Scripts/TimerGraphicsDefault.cs"
+"Assets/Scripts/ChangeScene.cs"
 -langversion:9.0
 
 /deterministic

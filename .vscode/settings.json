@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "FMV-Greenwich.sln"
+    "dotnet.defaultSolution": "FMV-Greenwich.sln",
+    "editor.tabSize": 2
 }
