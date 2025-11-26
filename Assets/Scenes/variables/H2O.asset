@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e81580b3521668449936839ee34b86f1, type: 3}
-  m_Name: Drink Water
+  m_Name: H2O
   m_EditorClassIdentifier: 
-  Guid: a9f1ed51ea551d64abb3abb5210c9b39
+  Guid: fcdda2196d8daf649b6f0322635932a7
   PersistanceType: 0
   DefaultValue: 0
   Comment: 
