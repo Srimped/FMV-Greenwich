@@ -29,6 +29,11 @@ namespace CharlesEngine
 			RuntimeValue--;
 		}
 
+		public int GetValue()
+    {
+      return RuntimeValue;
+    }
+
 		public void Add(int val)
 		{
 			RuntimeValue += val;

@@ -1,39 +1,23 @@
 1
-00:00:00,700 --> 00:00:01,400
+00:00:23,800 --> 00:00:24,800
 Hello.
 
 2
-00:00:01,500 --> 00:00:02,800
+00:00:24,800 --> 00:00:25,900
 I'm Tung.
 
 3
-00:00:03,600 --> 00:00:08,200
+00:00:26,000 --> 00:00:30,500
 An Information Technology student at Greenwich Vietnam, Hanoi Campus.
 
 4
-00:00:08,800 --> 00:00:11,200
-This is my graduation project.
+00:00:30,800 --> 00:00:40,200
+This is my graduation project, an FMV game about the journey of an IT student navigating choices, pressures, and very everyday moments of my life.
 
 5
-00:00:11,300 --> 00:00:21,700
-A FMV game about the journey of an IT student navigating choices, pressures, and very everyday moments of my life.
+00:00:40,500 --> 00:00:48,800
+I want to use this product to tell my own story—a little bit of truth, a little bit of fiction, but all of it comes from my own student experiences.
 
 6
-00:00:22,000 --> 00:00:25,200
-I want to use this product to tell my own story
-
-7
-00:00:26,000 --> 00:00:27,200
-Little bit of truth
-
-8
-00:00:27,400 --> 00:00:28,400
-A little bit of fiction
-
-9
-00:00:28,600 --> 00:00:33,200
-But all of it comes from my own student experiences.
-
-10
-00:00:33,600 --> 00:00:38,400
+00:00:49,000 --> 00:00:53,400
 Thank you for playing the game and exploring this story with me.

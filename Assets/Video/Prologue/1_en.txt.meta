@@ -1,6 +1,8 @@
 fileFormatVersion: 2
-guid: 1884e56fee91891499fb59051b03833f
-DefaultImporter:
+guid: c51fd2950c9c83a4f9df1c4df2daaae2
+labels:
+- subtitles
+TextScriptImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
